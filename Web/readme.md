@@ -15,3 +15,7 @@
 |------------------|---------------|
 | 提示词分享网站      |   [promptup](https://promptup.net/?tag=ppt&page=1)|
 
+
+### 编码有关
+
+https://x.com/vikingmute/status/1909774564994986205
