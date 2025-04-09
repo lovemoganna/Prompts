@@ -24,3 +24,7 @@ https://x.com/vikingmute/status/1909774564994986205
 ### Emacs 有关
 
 https://emacs-china.org/t/gpg-key/23250/11?u=luciuschen
+
+### MCP 有关
+
+https://5ire.app/
