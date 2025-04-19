@@ -1,4 +1,4 @@
-# ![plot](./title.svg)
+# ![plot](../Image/Major_title.svg)
 
 关于 [IBM Generative AI: Prompt Engineering](https://www.coursera.org/learn/generative-ai-prompt-engineering-for-everyone/ungradedLti/oyAr8/optional-lab-getting-to-know-our-ai-prompting-tool) 课程的阅读思考。
 
