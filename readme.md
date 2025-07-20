@@ -19,6 +19,13 @@
 
 
 #### 2.2 数据转换工具
-1. [YAML编辑器](https://lovemoganna.github.io/YAML_Editor/)
+1. [YAML编辑器](https://poe.com/DuckdbKW)
 2. [YAML转JSON](https://lovemoganna.github.io/JSON_Tools/)
 3. [表格转换器](https://lovemoganna.github.io/Prompts/Tools/TableMaster.html)
+
+#### 2.3 产品需求
+1. [智能需求分析助手](https://poe.com/Requirements007)
+
+### 三、编程
+1. [Emacs Lisp 控制结构图谱](https://poe.com/ElispKW)
+2. [Duckdb](https://poe.com/DuckdbKW)
