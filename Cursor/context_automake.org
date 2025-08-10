@@ -7,6 +7,7 @@
 2. 执行步骤：请先结构化该需求，然后生成自我澄清及结构化问题集。
 #+end_src
 
+#+begin_src markdown
 * 元提示体：自然语言需求到自我意识驱动提问生成器融合流程
 :PROPERTIES:
 :ID: meta-prompt-nlp-to-question-gen
@@ -60,6 +61,7 @@
 - [结构化问题集]  
   - ...  
   - ...
+#+end_src
 
 
 
